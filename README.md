@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bikko)](https://github.com/bikko/github-readme-stats)
+
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=marbik&theme=dark)](https://github.com/marbik/leetcode-stats)
