@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=marbik&theme=dark)](https://github.com/marbik/leetcode-stats)
+
 Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-bikko&theme=solarized_dark)
 
@@ -30,5 +32,3 @@ Here are some ideas to get you started:
 Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-bikko&theme=solarized_dark)
 
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=marbik&theme=dark)](https://github.com/marbik/leetcode-stats)
