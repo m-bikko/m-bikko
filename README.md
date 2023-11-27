@@ -18,17 +18,6 @@ Here are some ideas to get you started:
 
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+Темная тема:  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=marbik&theme=dark)](https://github.com/m-bikko/leetcode-stats)
