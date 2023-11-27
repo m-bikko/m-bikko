@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 Светлая тема:  
-[![Marbik's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=marbik)](https://github.com/m-bikko/leetcode-stats)
+[![Marbik's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=marbik)](https://github.com/marbik/leetcode-stats)
 
 
 Темная тема:  
