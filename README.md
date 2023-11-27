@@ -17,8 +17,8 @@
   />
 </picture>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=marbik&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=marbik&theme=dark)](https://leetcode.com/Marbik/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bikko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bikko&layout=compact)](https://leetcode.com/Marbik/)
 
 
