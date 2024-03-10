@@ -39,6 +39,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/marbik/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="dulatbay" height="30" width="40" /></a>
-  <a href="https://web.telegram.org/k/#@MarbikF" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="dulatbay" height="30" width="40" /></a>
+  
+  <a href="https://www.linkedin.com/in/marbik/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="Marbik" height="30" width="40" /></a>
+  <a href="https://web.telegram.org/k/#@MarbikF" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="MarbikF" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/marbikf4/" target="blank"><img align="center" src="https://cdn.simpleicons.org/instagram" alt="marbikf4" height="30" width="40" /></a>
 </p>
