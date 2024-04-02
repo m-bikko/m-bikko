@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Beimbet</h1>
-<h3 align="center">An intern at company Beeline.</h3>
+<h3 align="center">Developer, Musician & Designer</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-bikko/m-bikko/output/github-contribution-grid-snake-dark.svg">
