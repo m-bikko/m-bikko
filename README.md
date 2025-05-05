@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Beimbet</h1>
+<h1 align="center">Hi 👋, I'm XOR</h1>
 <h3 align="center">Developer, Musician & Designer</h3>
 <p align="center">
   <picture>
