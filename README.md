@@ -4,11 +4,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-bikko/m-bikko/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-bikko/m-bikko/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m-bikko/m-bikko/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/m-bikko/m-bikko/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 ---
@@ -23,16 +19,17 @@
 </p>
 
 ### 💼 Career & Focus
-- 🚀 **Product Owner** — управляю жизненным циклом продукта, соединяя бизнес-задачи и разработку.
-- 🏗️ Разрабатываю архитектуру на **Next.js** и **Python**.
-- 🐳 Контейнеризирую и деплою проекты через **Docker**.
+- 🚀 **Product Owner** — управление жизненным циклом продукта и тех. командами.
+- 🏗️ Архитектура на **Next.js** и **Python**.
+- 🐳 Инфраструктура в **Docker**.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-bikko&show_icons=true&theme=dark&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-bikko&layout=compact&theme=dark&hide_border=true" width="300" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-bikko&show_icons=true&theme=dark" alt="Stats" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-bikko&layout=compact&theme=dark" alt="Langs" />
 </p>
 
 ---
@@ -40,10 +37,10 @@
 ### 🏆 Competitive Programming
 <p align="center">
   <a href="https://leetcode.com/Marbik/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=Marbik&theme=dark" alt="LeetCode" height="180" />
+    <img src="https://leetcard.jacoblin.cool/Marbik?theme=dark&font=Fira%20Code" alt="LeetCode" height="150" />
   </a>
   <a href="https://codeforces.com/profile/MarbikF">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MarbikF&theme=dark" alt="Codeforces" height="180" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MarbikF&theme=dark" alt="Codeforces" height="150" />
   </a>
 </p>
 
@@ -51,17 +48,11 @@
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/marbik/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/MarbikF" target="blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/marbikf4/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/marbik/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/MarbikF" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/marbikf4/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=m-bikko&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=m-bikko&label=VIEWS&color=blue&style=flat-square" />
 </p>
