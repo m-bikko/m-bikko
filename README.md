@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm m-bikko</h1>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=m-bikko&label=VIEWS&color=blue&style=flat-square" />
+</p>
 <p align="center">
   <strong>Product Owner | Fullstack Developer | Problem Solver</strong>
 </p>
@@ -51,8 +54,4 @@
   <a href="https://www.linkedin.com/in/marbik/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/MarbikF" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.instagram.com/marbikf4/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=m-bikko&label=VIEWS&color=blue&style=flat-square" />
 </p>
