@@ -37,15 +37,15 @@
 
 ---
 
-### 🏆 Competitive Programming
-<p align="center">
-  <a href="https://leetcode.com/Marbik/">
-    <img src="https://leetcard.jacoblin.cool/Marbik?theme=dark&font=Fira%20Code" alt="LeetCode" height="150" />
-  </a>
-  <a href="https://codeforces.com/profile/MarbikF">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MarbikF&theme=dark" alt="Codeforces" height="150" />
-  </a>
-</p>
+//### 🏆 Competitive Programming
+//<p align="center">
+//  <a href="https://leetcode.com/Marbik/">
+//    <img src="https://leetcard.jacoblin.cool/Marbik?theme=dark&font=Fira%20Code" alt="LeetCode" height="150" />
+//  </a>
+//  <a href="https://codeforces.com/profile/MarbikF">
+//    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MarbikF&theme=dark" alt="Codeforces" height="150" />
+//  </a>
+//</p>
 
 ---
 
