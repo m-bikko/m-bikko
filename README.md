@@ -1,57 +1,113 @@
-<h1 align="center">Hi 👋, XOR</h1>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=m-bikko&label=VIEWS&color=blue&style=flat-square" />
-</p>
+<h1 align="center">Hey 👋, I'm Marbik</h1>
+
 <p align="center">
-  <strong>Product Owner | Fullstack Developer | Problem Solver</strong>
+  <strong>Product Owner · Full-Stack Developer · Problem Solver</strong>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-bikko/m-bikko/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <a href="https://github.com/m-bikko">
+    <img src="https://komarev.com/ghpvc/?username=m-bikko&label=PROFILE%20VIEWS&color=blue&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/m-bikko?tab=followers">
+    <img src="https://img.shields.io/github/followers/m-bikko?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-bikko/m-bikko/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
 
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+## 🚀 About Me
 
-### 💼 Career & Focus
-- 🚀 **Product Owner** - управление жизненным циклом продукта и тех. командами.
-- 🏗️ Архитектура на **Next.js** и **Python**.
-- 🐳 Инфраструктура в **Docker**.
+I'm a **Product Owner & Full-Stack Developer** who enjoys turning ideas into real products.
+
+I work at the intersection of **product, engineering, and design** — from defining requirements and product flows to building and deploying production-ready systems.
+
+- 🧠 Product thinking & technical problem solving
+- 🏗️ Full-stack web architecture
+- 🎨 Product & UI/UX design
+- 🤖 AI-powered applications
+- ⚙️ Development, automation & infrastructure
+- 🚀 Turning concepts into scalable products
+
+> **Build products. Solve problems. Keep learning.**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,cpp,postgres,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws" />
+</p>
+
+### Design & Product
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,notion" />
+</p>
+
+---
+
+## 💼 What I Do
+
+| Area | Focus |
+|------|-------|
+| 🚀 **Product** | Product strategy, requirements, roadmaps & prioritization |
+| 🧩 **Development** | Full-stack applications & scalable architecture |
+| 🎨 **Design** | UI/UX, CJM, user flows & product interfaces |
+| ⚙️ **Engineering** | APIs, databases, infrastructure & deployment |
+| 🤖 **AI** | AI-powered products, integrations & automation |
+| 👥 **Leadership** | Cross-functional teams & Agile/Scrum |
+
+---
+
+## 📊 GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-bikko&show_icons=true&theme=dark" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-bikko&layout=compact&theme=dark" alt="Langs" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-bikko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-bikko&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=m-bikko&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 Competitive Programming
+## 🧠 Competitive Programming
+
 <p align="center">
   <a href="https://leetcode.com/Marbik/">
-    <img src="https://leetcard.jacoblin.cool/Marbik?theme=dark&font=Fira%20Code" alt="LeetCode" height="150" />
+    <img src="https://leetcard.jacoblin.cool/Marbik?theme=dark&font=Fira%20Code" alt="LeetCode" height="170" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/MarbikF">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MarbikF&theme=dark" alt="Codeforces" height="150" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MarbikF&theme=dark" alt="Codeforces" height="170" />
   </a>
 </p>
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/marbik/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/MarbikF" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.instagram.com/marbikf4/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+## 🌱 Currently
+
+```text
+Building       →  Products & AI-powered applications
+Learning       →  Better architecture, product strategy & AI
+Exploring      →  New technologies & ideas
+Improving      →  Every day
