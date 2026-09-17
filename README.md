@@ -14,7 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-bikko/m-bikko/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/m-bikko/m-bikko/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
@@ -84,33 +87,10 @@ I work at the intersection of **product, engineering, and design** — from defi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=m-bikko&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-bikko&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=m-bikko&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ## 🧠 Competitive Programming
 
 <p align="center">
+
   <a href="https://leetcode.com/Marbik/">
     <img
       src="https://leetcard.jacoblin.cool/Marbik?theme=dark&font=Fira%20Code"
@@ -128,6 +108,7 @@ I work at the intersection of **product, engineering, and design** — from defi
       height="170"
     />
   </a>
+
 </p>
 
 ---
