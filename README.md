@@ -6,10 +6,16 @@
 
 <p align="center">
   <a href="https://github.com/m-bikko">
-    <img src="https://komarev.com/ghpvc/?username=m-bikko&label=PROFILE%20VIEWS&color=blue&style=flat-square" alt="Profile Views" />
+    <img
+      src="https://komarev.com/ghpvc/?username=m-bikko&label=PROFILE%20VIEWS&color=blue&style=flat-square"
+      alt="Profile Views"
+    />
   </a>
   <a href="https://github.com/m-bikko?tab=followers">
-    <img src="https://img.shields.io/github/followers/m-bikko?label=Followers&style=flat-square&color=blue" alt="Followers" />
+    <img
+      src="https://img.shields.io/github/followers/m-bikko?label=Followers&style=flat-square&color=blue"
+      alt="Followers"
+    />
   </a>
 </p>
 
@@ -45,25 +51,37 @@ I work at the intersection of **product, engineering, and design** — from defi
 ### 💻 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css" alt="Frontend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css"
+    alt="Frontend Technologies"
+  />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,java,cpp,postgres,mongodb" alt="Backend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=python,nodejs,java,cpp,postgres,mongodb"
+    alt="Backend Technologies"
+  />
 </p>
 
 ### ☁️ DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws" alt="DevOps Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws"
+    alt="DevOps Technologies"
+  />
 </p>
 
 ### 🎨 Design & Product
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,notion" alt="Design & Product Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=figma,notion"
+    alt="Design & Product Tools"
+  />
 </p>
 
 ---
@@ -90,25 +108,40 @@ I work at the intersection of **product, engineering, and design** — from defi
 ## 🧠 Competitive Programming
 
 <p align="center">
-
   <a href="https://leetcode.com/Marbik/">
     <img
       src="https://leetcard.jacoblin.cool/Marbik?theme=dark&font=Fira%20Code"
-      alt="LeetCode"
-      height="170"
+      alt="LeetCode Statistics"
+      width="580"
     />
   </a>
+</p>
 
-  &nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://leetcode.com/Marbik/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-179%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white"
+      alt="LeetCode"
+    />
+  </a>
 
   <a href="https://codeforces.com/profile/MarbikF">
     <img
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=MarbikF&theme=dark"
+      src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"
       alt="Codeforces"
-      height="170"
     />
   </a>
 
+  <a href="https://codeforces.com/profile/MarbikF">
+    <img
+      src="https://img.shields.io/badge/Rating-1252-1F8ACB?style=flat-square"
+      alt="Codeforces Rating"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Algorithms · Data Structures · Competitive Programming</i>
 </p>
 
 ---
