@@ -107,15 +107,29 @@ I work at the intersection of **product, engineering, and design** — from defi
 
 ## 🧠 Competitive Programming
 
-<p align="center">
-  <a href="https://leetcode.com/Marbik/">
-    <img
-      src="https://leetcard.jacoblin.cool/Marbik?theme=dark&font=Fira%20Code"
-      alt="LeetCode Statistics"
-      width="580"
-    />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/Marbik/">
+        <img
+          src="https://leetcard.jacoblin.cool/Marbik?theme=dark&font=Fira%20Code"
+          alt="LeetCode Statistics"
+          width="480"
+        />
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://codeforces.com/profile/MarbikF">
+        <img
+          src="https://codeforces-readme-stats.vercel.app/api/card?username=MarbikF&theme=dark"
+          alt="Codeforces Statistics"
+          width="480"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://leetcode.com/Marbik/">
@@ -148,8 +162,72 @@ I work at the intersection of **product, engineering, and design** — from defi
 
 ## 🌱 Currently
 
-```text
-🚀 Building     → Products & AI-powered applications
-🧠 Learning     → Product strategy, architecture & AI
-⚡ Improving    → Engineering & leadership
-🔍 Exploring    → New technologies and ideas
+<table align="center">
+  <tr>
+    <td align="center">🚀<br><strong>Building</strong><br>Products & AI applications</td>
+    <td align="center">🧠<br><strong>Learning</strong><br>Product strategy & AI</td>
+    <td align="center">⚡<br><strong>Improving</strong><br>Engineering & leadership</td>
+    <td align="center">🔍<br><strong>Exploring</strong><br>New technologies</td>
+  </tr>
+</table>
+
+---
+
+## 🎯 My Approach
+
+<p align="center">
+  <strong>Think → Design → Build → Measure → Improve</strong>
+</p>
+
+<p align="center">
+  Business thinking + User experience + Engineering + Data
+</p>
+
+---
+
+## 🔥 What Drives Me
+
+<p align="center">
+  <strong>01</strong> — Find the problem
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <strong>02</strong> — Understand the user
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <strong>03</strong> — Design the solution
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <strong>04</strong> — Build the product
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <strong>05</strong> — Measure & Improve
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/marbik/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://t.me/MarbikF">
+    <img
+      src="https://img.shields.io/badge/Telegram-26A5E7?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/marbikf4/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+  <i>Thanks for stopping by 🚀</i>
+</p>
